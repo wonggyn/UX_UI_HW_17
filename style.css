@@ -119,7 +119,7 @@ li {
     grid-template-columns: 33% 33% 33%;
     grid-template-rows: 30% 10% 60%;
     column-gap: 6%;
-    background-color: #A9EED1;
+    background-color: #BBEED9;
 }
 
 .item1 {
@@ -174,7 +174,7 @@ li {
 
 .pitem4 {
     grid-area: clickbutton;
-    background-color: #A9EED1;
+    background-color: #BBEED9;
     border: none;
     color: #4E4D4D;
     padding: 0px 16px;
@@ -228,7 +228,7 @@ li {
 .container3 {
     padding: 2.5% 432px;
     display: grid;
-    grid-template-columns: 60% 40%;
+    grid-template-columns: 65% 35%;
     grid-template-rows: 25% 15% 15% 8% 37%;
     grid-template-areas: 
     ". picture"
